@@ -1,0 +1,2 @@
+// La tienda inicia sin productos. Los iremos agregando juntos en la siguiente etapa.
+document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll('a[href^="#"]').forEach(link=>link.addEventListener("click",()=>{}));});
